@@ -1,0 +1,20 @@
+{
+  "name": "carpoolmgr",
+  "version": "1.0.0",
+  "description": "Simple heroku app to track carpool assignments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "start": "node index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randykern/carpoolmgr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randykern/carpoolmgr/issues"
+  },
+  "homepage": "https://github.com/randykern/carpoolmgr#readme"
+}
